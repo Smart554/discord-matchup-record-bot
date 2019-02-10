@@ -1,0 +1,10 @@
+{
+	"name": "FGMatchupBot",
+	"version": "1.0.0",
+	"description": "Stores matchup records between server members.",
+	"main": "FGMatchupBot.js",
+	"author": "Edzi",
+	"dependencies": {
+		"discord.js": "^11.4.2"
+	}
+}
