@@ -17,13 +17,13 @@
 
 	will display record for the given matchup
 	
-	TODO: 
-	.resetmatchuprecord @user1 @user2 (deletes all records associated with user)
+	!resetmatchuprecord @user1 @user2 (deletes all records associated with user)
 	
-	!nuke - delete the db
+	TODO:
+	!nuke - delete the save file/records
 
 	more info: 
-		- saves info into a file, stores as dict of arrays (?), database?
+		- saves info into a JSON file
 **/
 
 const fs = require("fs"); 
