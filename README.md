@@ -7,7 +7,8 @@ To use, must add your discord token to the config file, then follow discord's st
 # How it Works
 Stores user record as a JSON file
 
-Enter records with the following commands/format: 
+Enter records with the following commands/format:
+
 ```	!updatematchuprecords @user1 int_user1wins @user2 int_user2wins ```
 Will store/update records accordingly, and will add new users to the record.
 
